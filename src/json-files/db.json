@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "cards",
+      "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2019/03/spider-verse-featured-miles-min.jpg?resize=1000%2C563&ssl=1",
+      "about": "Spider-Man: Across the Spider-Verse is a 2023 American computer-animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man ",
+      "rating": "9.1⭐",
+      "releaseDate": "April 14,2023",
+      "Genre": [
+        "animation",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "id": 5
+    },
+    {
+      "name": "carding",
+      "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2019/03/spider-verse-featured-miles-min.jpg?resize=1000%2C563&ssl=1",
+      "about": "Spider-Man: Across the Spider-Verse is a 2023 American computer-animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man ",
+      "rating": "9.1⭐",
+      "releaseDate": "April 14,2023",
+      "Genre": [
+        "animation",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Spiderman:Across the Spider-Verse",
+      "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2019/03/spider-verse-featured-miles-min.jpg?resize=1000%2C563&ssl=1",
+      "about": "Spider-Man: Across the Spider-Verse is a 2023 American computer-animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man ",
+      "rating": "9.1⭐",
+      "releaseDate": "April 14,2023",
+      "Genre": [
+        "animation",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "id": 7
+    }
+  ]
+}

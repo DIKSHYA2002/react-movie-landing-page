@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MovieCards = ({movie_name,image,about,rating,releaseDate,Genre}) => {
+const MovieCards = ({movie_name,image,about,rating,releaseDate,Genre ,onclick,buttonText,onClick,buttonText2}) => {
   return (
     <div className='moviecard'>
        <div className="movie-image">
@@ -22,6 +22,10 @@ const MovieCards = ({movie_name,image,about,rating,releaseDate,Genre}) => {
       </div>
       <div className="genre">
        {Genre}
+      </div>
+      <div className="button">
+       <button onClick={onclick}>Delete</button>
+       <button onClick={onClick}>Update</button>
       </div>
       </div>
      
